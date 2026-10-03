@@ -47,7 +47,7 @@ The data explicitly reveals that the company suffers substantial revenue leakage
 
 ### 1. Executive Dashboard
 <p>
-  <img src="RetentionKajodata.png" alt="Customer Retention Dashboard" width="100%">
+  <img src="[RetentionKajodata.png](https://github.com/krzysiu22/customer-retention-powerbi/blob/main/RetentionKajodata.png?raw=true)" alt="Customer Retention Dashboard" width="100%">
 </p>
 
 ### 2. Relational Data Model (Star Schema)
